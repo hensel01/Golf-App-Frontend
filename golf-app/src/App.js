@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Homepage from './Containers/Homepage'
+import Leaderboard from './Containers/Leaderboard'
 
 function App() {
   return (
